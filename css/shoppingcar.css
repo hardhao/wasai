@@ -266,9 +266,11 @@ section>img{
   font-size: 14px;
   color: #ff776b;
   font-weight: 700;
+  flex-grow: 1;
 }
 .zongjia>a:nth-child(8){
   width: 163px;
   height: 42px;
   background: url('../images/settlement.jpg') no-repeat;
+  flex-grow: 0;
 }

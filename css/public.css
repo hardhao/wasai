@@ -315,7 +315,7 @@ footer{
 }
 .foot-bg{
     width: 100%;
-    min-width: 100%;
+    min-width:400px;
     height: 10px;
     background-image: url('../images/footer_bg.gif');
 }
